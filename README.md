@@ -24,7 +24,7 @@ Computer Engineering diploma graduate with hands-on experience in software devel
 ### 🔹 [N8N Automations](https://github.com/Pranav-Fintech/N8N-Automations-)
 A curated collection of powerful automations using n8n. Includes webhook-based flows, data splitouts, filters, and real-time integrations. Built with modular logic for real-world FinTech use cases.
 
-### 🔹 Learning Management System (LMS)
+### 🔹 [Learning Management System (LMS)](https://github.com/Pranav-Fintech/Learning-Management-System-LMS-)
 Developed a complete LMS using PHP and MySQL with secure login, role-based access, admin dashboard, and REST API integration.  
 🧰 Frontend: HTML, CSS, JavaScript | 🔗 GitHub + Git-based Agile workflow.
 
