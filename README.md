@@ -36,4 +36,4 @@ Developed a complete LMS using PHP and MySQL with secure login, role-based acces
 
 ---
 
-> _"Build once, automate forever."_
+>⚡ _"Build once, automate forever."_
