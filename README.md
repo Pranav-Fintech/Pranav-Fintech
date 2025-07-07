@@ -30,9 +30,9 @@ Developed a complete LMS using PHP and MySQL with secure login, role-based acces
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/pranav-devani)
-- [GitHub](https://github.com/Pranav-Fintech)
-- [Email](mailto:pranavdevani56@gmail.com)
+- 🔗 [LinkedIn](www.linkedin.com/in/pranav-devani)
+- 🌐 [Portfolio]
+- ✉️ [Email](mailto:pranavdevani56@gmail.com)
 
 ---
 
