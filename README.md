@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranav Devani
 
-<!--
-**Pranav-Fintech/Pranav-Fintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Professional Summary
 
-Here are some ideas to get you started:
+Computer Engineering diploma graduate with hands-on experience in software development, financial systems, and AI automation. Skilled in Python, MySQL, and REST API integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Passionate about building scalable FinTech solutions and applying AI in financial markets.
+
+---
+
+## 🔧 Skills & Tech Stack
+
+- **Programming**: Python, Java, JavaScript  
+- **Frameworks**: PHP, MySQL  
+- **Finance & Trading**: Financial Analysis, Investment Banking, Sales & Trading  
+- **Dev Practices**: REST APIs, Agile, SDLC, Version Control, CI/CD  
+- **Tools**: Git, GitHub, VS Code, n8n  
+- **AI**: Automation, Agentic AI  
+
+---
+
+## 📂 Projects
+
+### 🔹 [N8N Automations](https://github.com/Pranav-Fintech/N8N-Automations-)
+A curated collection of powerful automations using n8n. Includes webhook-based flows, data splitouts, filters, and real-time integrations. Built with modular logic for real-world FinTech use cases.
+
+### 🔹 Learning Management System (LMS)
+Developed a complete LMS using PHP and MySQL with secure login, role-based access, admin dashboard, and REST API integration.  
+🧰 Frontend: HTML, CSS, JavaScript | 🔗 GitHub + Git-based Agile workflow.
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/pranavdevani)
+- [GitHub](https://github.com/Pranav-Fintech)
+- [Email](mailto:pranavdevani56@gmail.com)
+
+---
+
+> _"Build once, automate forever."_
