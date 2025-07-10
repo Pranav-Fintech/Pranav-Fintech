@@ -28,6 +28,10 @@ A curated collection of powerful automations using n8n. Includes webhook-based f
 Developed a complete LMS using PHP and MySQL with secure login, role-based access, admin dashboard, and REST API integration.  
 🧰 Frontend: HTML, CSS, JavaScript | 🔗 GitHub + Git-based Agile workflow.
 
+### 🔹 [Dream Analyzer](https://github.com/Pranav-Fintech/Dream-Analyzer)
+A unique AI-powered project that interprets dreams using natural language processing (NLP) and machine learning. Users can input dream descriptions, and the system analyzes emotional tone, symbols, and recurring patterns to generate a psychological interpretation.
+🧰 Frontend: HTML, CSS, JavaScript | 📊 Api: Genspark Api
+
 ## 🌐 Connect With Me
 
 - 🔗 [LinkedIn](www.linkedin.com/in/pranav-devani)
