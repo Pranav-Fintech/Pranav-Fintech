@@ -32,10 +32,12 @@ Developed a complete LMS using PHP and MySQL with secure login, role-based acces
 A unique AI-powered project that interprets dreams using natural language processing (NLP) and machine learning. Users can input dream descriptions, and the system analyzes emotional tone, symbols, and recurring patterns to generate a psychological interpretation.
 🧰 Frontend: HTML, CSS, JavaScript | 📊 Api: Genspark Api
 
+### 🔹 [AI-Powered Finance Planning Chatbot](https://github.com/Pranav-Fintech/Finance-Advisor)
+
 ## 🌐 Connect With Me
 
 - 🔗 [LinkedIn](www.linkedin.com/in/pranav-devani)
-- 🌐 [Portfolio](https://btkkmzot.manus.space/)
+- 🌐 [Portfolio](https://bmuplncc.manus.space/)
 - ✉️ [Email](mailto:pranavdevani56@gmail.com)
 
 ---
