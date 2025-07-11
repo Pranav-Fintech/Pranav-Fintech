@@ -33,7 +33,7 @@ A unique AI-powered project that interprets dreams using natural language proces
 🧰 Frontend: HTML, CSS, JavaScript | 📊 Api: Genspark Api
 
 ### 🔹 [AI-Powered Finance Planning Chatbot](https://github.com/Pranav-Fintech/Finance-Advisor)
-financial insights using stock, crypto, and forex data.
+financial insights using stock, crypto, and forex data.                                                     
 🧰 Frontend: React 18, Vite, Tailwind CSS, Shadcn/UI | 🐍 Backend: Flask, Flask-CORS, SQLAlchemy (planned) | 🔗 APIs: Alpha Vantage, CoinGecko
 
 ## 🌐 Connect With Me
