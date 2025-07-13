@@ -39,7 +39,7 @@ financial insights using stock, crypto, and forex data.
 ## 🌐 Connect With Me
 
 - 🔗 [LinkedIn](www.linkedin.com/in/pranav-devani)
-- 🌐 [Portfolio](https://aextpdeu.manus.space/)
+- 🌐 [Portfolio](https://zbfylzfi.manus.space/)
 - ✉️ [Email](mailto:pranavdevani56@gmail.com)
 
 ---
